@@ -1,0 +1,52 @@
+.title{
+  color:white;
+  background: black;
+  text-align: center;
+  font-family:標楷體;
+  font-size:60px;
+}
+*{
+  margin: 0;
+}
+
+.title h2{
+font-size: 16px;
+
+}
+.box{
+  display: inline-flex;
+  margin: auto;
+}
+.innerbox{
+    margin: 50px;
+  width: 1700px;
+  height: 1000px;
+  background: #666;
+  opacity:0.8;
+  border-radius:20px;
+  border-color:white;border-width:20px;border-style:solid;padding:5px;">
+
+}
+.innerbox h1{
+  color: gold;
+  font-size: 54px;
+  font-family:華康行楷體W5;
+  margin: 24px;
+
+}
+.innerbox h2{
+  color: white;
+  font-size: 54px;
+  font-family:華康行楷體W5;
+  margin: 24px;
+
+}
+
+body{
+background-size: cover;
+}
+
+img{
+  margin: 50px;
+  border-radius:20px;
+}
